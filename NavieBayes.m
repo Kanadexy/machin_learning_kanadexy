@@ -1,5 +1,4 @@
 function NavieBayes
-
 %% Machine Learning Algorithm:Navie Bayes
 %@Author  :  kanadexy
 %@Email   :  xiangyustudy@foxmail.com
